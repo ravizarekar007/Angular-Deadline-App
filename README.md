@@ -3,13 +3,15 @@
 ###1 
 ```shell
 # The first solution (manual decrement) is more lightweight and avoids repeated API calls.
-# check method checkDeadline() in src\app\deadline\deadline.component.ts
+# Check method checkDeadline() in deadline-app\src\app\deadline\deadline.component.ts
+# It uses to call api of deadline-service from deadline-app\src\app\service\deadline.service.ts
 ```
 
  ###2 
  ```shell
  # The second solution uses RxJS reactivity, is robust and it uses RxJs operators
- # check method checkDeadline1() in src\app\deadline\deadline.component.ts
+ # Check method checkDeadline1() in src\app\deadline\deadline.component.ts
+ # It uses to call api of deadline-service from deadline-app\src\app\service\deadline.service.ts
 ```
 
 
