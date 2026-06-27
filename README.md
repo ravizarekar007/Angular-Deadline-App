@@ -18,8 +18,8 @@
 ### Clone the repo
 
 ```shell
-git clone https://github.com/ravizarekar007/Angular-Deadline-App
-cd Angular-Deadline-App
+git clone https://github.com/ravizarekar007/Angular-Deadline-App.git
+cd Angular-Deadline-App/deadline-app
 ```
 
 ### Install npm packages
