@@ -1,0 +1,14 @@
+<p>Deadline Works!</p>
+
+@if(secondsLeft !== null){
+    <h6>
+      Seconds left to deadline: {{ secondsLeft }}
+    </h6>
+}
+
+ 
+<div *ngIf="secondsLeft$ | async as seconds">
+      Seconds left to deadline: {{ seconds }}
+</div>
+
+<hr>
