@@ -6,8 +6,8 @@
 
 # Check method checkDeadline() in deadline-app/src/app/deadline/deadline.component.ts
 (https://github.com/ravizarekar007/Angular-Deadline-App/blob/main/deadline-app/src/app/deadline/deadline.component.ts)
-# It uses to call api of deadline-service from deadline-app/src/app/service/deadline.service.ts
 
+# It uses to call api of deadline-service from deadline-app/src/app/service/deadline.service.ts
 (https://github.com/ravizarekar007/Angular-Deadline-App/blob/main/deadline-app/src/app/service/deadline.service.ts)
 ```
 
